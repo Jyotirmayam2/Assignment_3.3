@@ -1,3 +1,3 @@
 # Assignment_3.3
 # Hosting path
-https://github.com/Jyotirmayam2/Assignment_3.3.git/specificity.html
+https://jyotirmayam2.github.io/Assignment_3.3/specificity.html
